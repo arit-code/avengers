@@ -1,3 +1,2 @@
-* Investigar al doctor doom.
+* Doctor doom.
 * Capturar a Red Skull
-* Capitán America
